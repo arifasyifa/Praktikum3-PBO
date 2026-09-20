@@ -1,6 +1,6 @@
-# Laporan Praktikum Modul 3: Exception Handling & Manipulasi Teks
+# Praktikum 3: Exception Handling & Manipulasi Teks
 
-Repositori ini berisi penyelesaian tugas praktikum Pemrograman Berorientasi Objek (PBO) Modul 3 dengan fokus implementasi Custom Exception, blok kontrol Try-Catch-Finally, serta manipulasi data teks menggunakan StringBuilder.
+Repositori ini berisi penyelesaian tugas praktikum Pemrograman Berorientasi Objek (PBO) 3 dengan fokus implementasi Custom Exception, blok kontrol Try-Catch-Finally, serta manipulasi data teks menggunakan StringBuilder.
 
 ---
 
