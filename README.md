@@ -17,7 +17,7 @@ Berdasarkan modul praktikum, implementasi ini memenuhi capaian pembelajaran:
 - SaldoTidakMencukupiException.java : Subclass Exception untuk validasi saldo
 - Rekening.java : Model entitas rekening, transaksi, dan masking teks
 - MainBank.java : Program pengujian blok try-catch-finally
-- README.md : Dokumentasi repositori
+- README.md : Catatan penjelasan praktikum
 
 ---
 
@@ -48,25 +48,3 @@ Berdasarkan modul praktikum, implementasi ini memenuhi capaian pembelajaran:
 - Blok finally:
   - Selalu dieksekusi terlepas dari sukses atau terjadinya eksepsi pada transaksi.
   - Mencetak status akhir pemrosesan beserta hasil penyamaran nomor rekening.
-
----
-
-## Hasil Output Konsol
-
-=== TRANSAKSI BANK ===
-
-Penarikan pertama:
-===== STRUK PENARIKAN =====
-Nasabah        : Arifa Syifaul Qulbi
-No. Rekening   : 18072*****
-Jumlah Tarik   : Rp260000.0
-Sisa Saldo     : Rp740000.0
-===========================
-
-Penarikan kedua:
-
-ERROR: Saldo tidak mencukupi. Saldo Anda: Rp740000.0
-
-=== PENUTUP ===
-Transaksi selesai diproses.
-Nomor Rekening: 18072*****
