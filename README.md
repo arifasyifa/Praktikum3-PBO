@@ -4,7 +4,7 @@ Repositori ini berisi penyelesaian tugas praktikum Pemrograman Berorientasi Obje
 
 ---
 
-## 🎯 Capaian Praktikum
+## Capaian Praktikum
 Berdasarkan modul praktikum, implementasi ini memenuhi capaian pembelajaran:
 1. Mengimplementasikan mekanisme penanganan galat runtime menggunakan blok `try-catch-finally`.
 2. Membuat dan menerapkan **Custom Exception** (`SaldoTidakMencukupiException`) dengan pemanfaatan kata kunci `throw` dan `throws`.
@@ -12,7 +12,7 @@ Berdasarkan modul praktikum, implementasi ini memenuhi capaian pembelajaran:
 
 ---
 
-## 📂 Struktur Berkas Program
+## Struktur Berkas Program
 
 ```text
 .
